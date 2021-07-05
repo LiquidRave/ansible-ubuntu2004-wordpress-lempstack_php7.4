@@ -1,0 +1,5 @@
+---
+mysql_root_password: "12345"
+http_host: "srdela.com"
+http_conf: "srdela.com.conf"
+http_port: "80"
